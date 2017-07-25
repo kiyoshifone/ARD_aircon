@@ -1,6 +1,9 @@
 # autoaircon
 は，IRremoteESP8266に含まれるIRsendDemo.inoを参考にしています．
 
+
+以下IRsendDemo.inoの注釈
+
 /* IRremoteESP8266: IRsendDemo - demonstrates sending IR codes with IRsend.
  *
  * Version 1.0 April, 2017

@@ -4,6 +4,8 @@
 
 以下IRsendDemo.inoの注釈
 
+
+~~~
 /* IRremoteESP8266: IRsendDemo - demonstrates sending IR codes with IRsend.
  *
  * Version 1.0 April, 2017
@@ -32,3 +34,4 @@
  *   * ESP-01 modules are tricky. We suggest you use a module with more GPIOs
  *     for your first time. e.g. ESP-12 etc.
  */
+~~~
